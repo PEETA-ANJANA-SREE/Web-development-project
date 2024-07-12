@@ -27,3 +27,8 @@ This QR code generator code snippet enables users to generate QR codes dynamical
 
 
 This pop-up (modal) code snippet provides a versatile way to display messages, notifications, or interactive content on web pages. Utilizing HTML for structure, CSS for styling, and JavaScript for functionality, it offers a responsive and user-friendly interface. Users can trigger the pop-up through various events like button clicks or page loads, enhancing interaction and user engagement
+
+**6.Stop Watch**
+
+
+This repository contains a simple stopwatch web application implemented using HTML, CSS, and JavaScript. The stopwatch displays hours, minutes, and seconds, allowing users to start, stop, and reset the timer as needed. It includes functionality to handle incremental time updates using setInterval in JavaScript, ensuring accurate timekeeping. This project serves as a practical example of front-end web development, demonstrating basic DOM manipulation and event handling techniques.
